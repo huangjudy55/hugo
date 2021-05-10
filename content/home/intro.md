@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: ✏️ 又見到你囉
-subtitle: 'For [My fruit](https://yahoo.com/)'
+subtitle: 'For [Myfruit](https://yahoo.com/)'
 
 design:
   background:
